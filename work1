@@ -1,0 +1,13 @@
+#开发思路：给定判断条件condition，列出已有的待筛选变量stone，利用循环依次去将condition中的字符和stone比对，因为stone中无重复字符
+#如果跳出循环，输出相应的个数，反之输出null
+
+
+
+condition = "eE"
+
+stone = "aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ"
+
+if condition in stone:
+    print(1)
+else:
+    print("0")
