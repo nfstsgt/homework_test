@@ -11,3 +11,5 @@ if condition in stone:
     print(1)
 else:
     print("0")
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
